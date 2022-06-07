@@ -2,10 +2,10 @@
 
 # Wonkook Lee
 
-> 안녕하세요, 저는 프론트엔드 개발자 이원국입니다. 🙌  
-아름다운 UI와 인터랙션, 사용자를 위한 편리한 UX, Cloud Computing에 관심이 있습니다.  
-레드닷(Reddot) 어워드를 포함한 국제, 국내 디자인 수상 경력을 가진 산업디자이너 출신입니다. 🏆  
-가치 지향적인 개발자가 되기 위해 공부하고 있습니다. 📚  
+> 직관적인 UX와 실용적인 UI, 인터랙션으로 사용자를 감동시키고 싶은 프론트엔드 개발자 이원국입니다. 🙌  
+> 레드닷(Reddot) 어워드를 포함한 국제, 국내 디자인 수상 경력을 가진 산업디자이너 출신입니다. 🏆  
+> 비즈니스의 맥락을 반영하여 확장성과 유지보수성을 생각한 디자인 시스템 개발에 관심이 많으며  
+> 고객과 사업, 동료를 이해하고 공감하며 성장을 이루기 위해 공부하고 있습니다. 📚  
 
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  
@@ -36,7 +36,8 @@ Interested in user interaction and designing practical interfaces.
 ---
 
 blog: https://velog.io/@oneook  
-linkedin: https://www.linkedin.com/in/wonkook/
+linkedin: https://www.linkedin.com/in/wonkook
+contact: const.wonkook@gmail.com
 
 <!--
 **wonkooklee/wonkooklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

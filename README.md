@@ -12,6 +12,7 @@ I am currently working as a frontend engineer at Medistream.
 Interested in user interaction and designing practical interfaces.  
 
 ## Toy Projects
+배운 것에 익숙해지기 위해, 또는 누군가의 문제를 해결하기 위해 간단한 토이 프로젝트를 만드는 것을 즐깁니다.
 - [썸네일 메이커(Thunbmail Maker)](https://velog.io/@oneook/%EC%8D%B8%EB%84%A4%EC%9D%BC-%EB%A9%94%EC%9D%B4%EC%BB%A4Thumbnail-Maker-Toy-Project)
 - [Unsplash 랜덤 이미지 요청과 클로저를 활용한 모듈 패턴으로 예제 만들기](https://velog.io/@oneook/%EB%8B%B9%EC%8B%A0%EC%9D%98-%ED%83%9C%EA%B7%B8%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-Toy-Project)
 - [이미지 URL 유효성 이중 검증과 User Mistake-Proofing 연습](https://velog.io/@oneook/%EC%9D%B4%EB%AF%B8%EC%A7%80-URL-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%A6%9D%EA%B3%BC-%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EC%97%B0%EC%8A%B5)

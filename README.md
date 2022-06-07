@@ -36,7 +36,7 @@ Interested in user interaction and designing practical interfaces.
 ---
 
 blog: https://velog.io/@oneook  
-linkedin: https://www.linkedin.com/in/wonkook
+linkedin: https://www.linkedin.com/in/wonkook  
 contact: const.wonkook@gmail.com
 
 <!--

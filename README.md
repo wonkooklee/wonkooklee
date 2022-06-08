@@ -1,6 +1,6 @@
 ![](https://media-exp2.licdn.com/dms/image/C4D16AQExcQTfJXDHMg/profile-displaybackgroundimage-shrink_350_1400/0/1654188588458?e=1660176000&v=beta&t=Fn26cNHT0NHFhARD_7kVblGfC_1BWPNH1UDyBHCfNDA)
 
-# A Value-Oriented Frontend Developer
+# Value-Oriented Frontend Developer
 
 > 직관적인 UX와 실용적인 UI, 인터랙션으로 사용자를 감동시키고 싶은 프론트엔드 개발자 이원국입니다. 🙌  
 > 레드닷(Reddot) 어워드를 포함한 국제, 국내 디자인 수상 경력을 가진 산업디자이너 출신입니다. 🏆  

@@ -5,7 +5,7 @@
 > 직관적인 UX와 실용적인 UI, 인터랙션으로 사용자를 감동시키고 싶은 프론트엔드 개발자 이원국입니다.   
 > 레드닷(Reddot) 어워드를 포함한 국제, 국내 디자인 수상 경력을 가진 산업디자이너 출신입니다.   
 > 비즈니스의 맥락을 반영하여 확장성과 유지보수성을 생각한 디자인 시스템 개발에 관심이 많으며  
-> 고객과 사업, 동료를 이해하고 공감하며 성장을 이루기 위해 공부하고 있습니다.     
+> 고객과 사업, 동료를 이해하고 공감하며 성장을 이루기 위해 공부하고 있습니다.   
 
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  

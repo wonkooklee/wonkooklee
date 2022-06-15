@@ -24,26 +24,24 @@ Interested in user interaction and designing practical interfaces.
 ## Interviews
 - [DevFolio - 이 프로젝트 어떻게 만드셨어요? #3 - 썸네일메이커 개발자 인터뷰](https://devfolio.kr/magazine/7)
 
-## Stacks
+## Technicals
 ```
-- Frontend Stack (Professional) : ES6+ / Vue2 & Vue3 / React(v16~)  
-- Backend Stack (Pre-Intermediate) : Cloud Formation / Lambda / S3  
-- AWS (Beginner) : DynamoDB / EventBridge / API Gateway / SQS / NodeJS / Express  
-- Infra Provisioning Tools : Serverless Framework  
-- Styling : Sass / Styled-Components  
-- Libraries & Bundling: Redux / Vuex / Webpack / Babel  
-```
+# Stacks
+• Frontend Stack (Professional) : ES6+ / Vue2 & Vue3 / React(v16~)
+• Styling : Sass / Styled-Components
+• Libraries & Bundling: Vuex / Webpack / Babel
 
-### Team Collaboration Tool
-```
-- Bitbucket / Slack / Atlassian(Confluence, Jira)  
-```
+# Not a Stack but Experienced & Learning
+• Infra Provisioning Tools : Serverless Framework
+• AWS : DynamoDB / EventBridge / API Gateway / SQS / NodeJS / Express / Cloud Formation / Lambda / S3
 
-### Visualization Skills
-```
-- 3D : Rhinoceros v5~ / Keyshot v7~ / Vray  
-- 2D : Adobe Photoshop / Illustrator / Lightroom  
-- Commercial Photography  
+# Team Collaboration Tool
+• Bitbucket / Slack / Atlassian(Confluence, Jira)
+
+# Visualization Skills
+• 3D : Rhinoceros v5~ / Keyshot v7~ / Vray
+• 2D : Adobe Photoshop / Illustrator / Lightroom
+• Commercial Photography
 ```
 
 ---

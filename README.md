@@ -9,7 +9,7 @@
 
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  
-Interested in user interaction and designing practical interfaces.  
+Interested in user interaction and designing practical interfaces.    
 
 ## Toy Projects
 배운 것에 익숙해지기 위해, 또는 누군가의 문제를 해결하기 위해 간단한 토이 프로젝트를 만드는 것을 즐깁니다.

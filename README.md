@@ -26,6 +26,8 @@ Interested in user interaction and designing practical interfaces.
 
 ## Retrospectives
 - [22/02/03 - 개발자가 되었다.](https://velog.io/@oneook/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%97%88%EB%8B%A4)
+- [22/02/26 - 프론트엔드 개발자로서 좋았던 책들 · 간단한 서평](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%EC%A2%8B%EC%95%98%EB%8D%98-%EC%B1%85%EB%93%A4-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%84%9C%ED%8F%89)
+
 
 ## Technicals
 ```

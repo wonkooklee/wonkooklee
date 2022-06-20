@@ -28,6 +28,7 @@ Interested in user interaction and designing practical interfaces.
 - [22/02/03 - 개발자가 되었다.](https://velog.io/@oneook/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%97%88%EB%8B%A4)
 - [22/02/26 - 프론트엔드 개발자로서 좋았던 책들 · 간단한 서평](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%EC%A2%8B%EC%95%98%EB%8D%98-%EC%B1%85%EB%93%A4-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%84%9C%ED%8F%89)
 - [22/06/16 - 프론트엔드 아무개씨의 6월 회고](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%EB%AC%B4%EA%B0%9C%EC%94%A8%EC%9D%98-6%EC%9B%94-%ED%9A%8C%EA%B3%A0)
+- [22/06/18 - 인프랩 심야 FE 네트워킹 데이 참여 후기](https://velog.io/@oneook/%EC%9D%B8%ED%94%84%EB%9E%A9-FE-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EB%8D%B0%EC%9D%B4%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 ## Technicals
 ```

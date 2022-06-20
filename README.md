@@ -24,6 +24,9 @@ Interested in user interaction and designing practical interfaces.
 ## Interviews
 - [DevFolio - 이 프로젝트 어떻게 만드셨어요? #3 - 썸네일메이커 개발자 인터뷰](https://devfolio.kr/magazine/7)
 
+## Retrospectives
+- [22/02/03 - 개발자가 되었다.](https://velog.io/@oneook/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%97%88%EB%8B%A4)
+
 ## Technicals
 ```
 # Stacks

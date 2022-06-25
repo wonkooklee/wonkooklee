@@ -8,7 +8,7 @@
 > 고객과 사업, 동료를 이해하고 공감하며 성장을 이루기 위해 공부하고 있습니다.   
 
 ### [🚧 소개 페이지 🚧 공사중](https://wonkooklee.github.io/gatsby-start-blog/)
-
+  
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  
 Interested in user interaction and designing practical interfaces.    

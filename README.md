@@ -38,7 +38,7 @@ Interested in user interaction and designing practical interfaces.
 # Stacks
 • Frontend Stack (Professional) : ES6+ / Vue2 & Vue3 / React(v16~) / TypeScript
 • Styling : Sass / Styled-Components
-• Libraries & Bundling: Vuex / Webpack / Babel
+• Libraries & Bundling: Vuex / Redux / Webpack / Babel
 
 # Not a Stack but Experienced & Learning
 • Infra Provisioning Tools : Serverless Framework

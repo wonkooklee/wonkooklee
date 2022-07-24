@@ -36,7 +36,7 @@ Interested in user interaction and designing practical interfaces.
 ## Technicals
 ```
 # Stacks
-• Frontend Stack (Professional) : ES6+ / Vue2 & Vue3 / React(v16~) / TypeScript
+• Frontend Stack (Professional) : ES6+ / Vue2 & Vue3 / React(v16~)
 • Styling : Sass / Styled-Components
 • Libraries & Bundling: Vuex / Redux / Webpack / Babel
 

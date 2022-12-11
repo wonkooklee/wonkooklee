@@ -10,7 +10,7 @@
 
 ### [🚧 소개 페이지 🚧 공사중](https://wonkooklee.github.io/gatsby-start-blog/)
 
-### [TIL](https://github.com/wonkooklee/today-i-learned)
+### [TIL 🔗](https://github.com/wonkooklee/today-i-learned)
   
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  

@@ -9,6 +9,8 @@
 > 맹목적인 기술 추구보다 본질적인 가치를 지향하는 ‘가치 지향 개발자’로 성장하는 것을 목표로 합니다.  
 
 ### [🚧 소개 페이지 🚧 공사중](https://wonkooklee.github.io/gatsby-start-blog/)
+
+### [TIL](https://github.com/wonkooklee/today-i-learned)
   
 > A Frontend engineer who was award-winning industrial designer even includes red-dot award.  
 I am currently working as a frontend engineer at Medistream.  

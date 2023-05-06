@@ -14,6 +14,10 @@
 I am currently working as a frontend engineer at Medistream.  
 Interested in user interaction and designing practical interfaces.    
 
+## Packages & Libraries
+제작한 패키지, 라이브러리 모음  
+- [next-pathmap](https://www.npmjs.com/package/next-pathmap?activeTab=readme) - Next.js 프로젝트 모든 페이지 경로 메타 데이터를 쉽게 생성하고 관리하기 위해 만든 툴.  
+
 ## Toy Projects
 배운 것에 익숙해지기 위해, 또는 누군가의 문제를 해결하기 위해 간단한 토이 프로젝트를 만드는 것을 즐깁니다.
 - [썸네일 메이커(Thunbmail Maker)](https://velog.io/@oneook/%EC%8D%B8%EB%84%A4%EC%9D%BC-%EB%A9%94%EC%9D%B4%EC%BB%A4Thumbnail-Maker-Toy-Project)

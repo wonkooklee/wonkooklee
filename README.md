@@ -1,10 +1,14 @@
-# Value Driven Frontend Developer
+- **Enthusiastic Frontend Developer**  
+- **Crafting Engaging User Interfaces**  
+- **Passionate About Modern Web Technologies**  
 
-- 고객과 서비스가 만나는 접점을 설계하고 개발합니다.
-- 고객이 처음 만나는 화면에서 우리의 가치와 비전을 명확하게 전달합니다.
-- 고객이 우리의 서비스를 쾌적하고 직관적으로 경험할 수 있도록 UI/UX, 유저 플로우, 성능 튜닝, 인터랙션 등 웹 기반 기술과 디자인 솔루션을 제공합니다.
-- 최고의 고객 가치와 경험을 목표로 하는 가치 지향 엔지니어링을 추구합니다.
-- 아름다운 UI와 편리한 UX, 효율적인 인터페이스 설계, 업무 자동화, 클라우드 컴퓨팅에 전문성을 갖추고 있습니다.
+I design and develop touchpoints where customers interact with our services, constantly striving to convey our ideas and values through the initial screens. I focus on UI/UX, user flow, performance tuning, and interactions to ensure a pleasant and intuitive user experience.
+
+My goal is value-driven engineering, aiming to deliver the highest customer value and experience. I have a keen interest in beautiful UI and interactions, user-friendly UX, interface design, workflow automation, and cloud computing.
+
+As a former industrial designer with international and domestic design awards, including the Red Dot Award, I bring a unique perspective to the intersection of design and technology.
+
+If you have any questions about me, please don’t hesitate to send me a message.
 
 <!--
 ### [🚧 소개 페이지 🚧 공사중](https://wonkooklee.github.io/gatsby-start-blog/)

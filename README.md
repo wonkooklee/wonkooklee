@@ -1,4 +1,8 @@
+![bar](https://github.com/user-attachments/assets/2806b005-d225-408c-aa26-16aee7fd3a13)
+
 ## **Enthusiastic Frontend Engineer** | **Crafting Engaging User Interfaces** | **Passionate About Modern Web Technologies**
+
+🔗 [blog.wonkooklee.com](https://blog.wonkooklee.com)
 
 I design and develop touchpoints where customers interact with our services, constantly striving to convey our ideas and values through the initial screens. I focus on UI/UX, user flow, performance tuning, and interactions to ensure a pleasant and intuitive user experience.
 

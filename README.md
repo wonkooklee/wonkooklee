@@ -18,96 +18,6 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 제가 일하며 배운 것들을 원리부터 정리해 [**blog.wonkooklee.com**](https://blog.wonkooklee.com)에 씁니다. 섹션과 카테고리를 펼치면 전체 글을 볼 수 있습니다.
 
-<details open>
-<summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
-
-<br/>
-
-프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인을, 원리부터 실무까지 풀어 정리한 시리즈입니다.
-
-<details>
-<summary>근태 (6)</summary>
-
-- [같은 회사인데 왜 근무가 다를까요?](https://blog.wonkooklee.com/domain/attendance/work-and-worker-types/)
-- [일하는 날일까요, 쉬는 날일까요?](https://blog.wonkooklee.com/domain/attendance/work-day-or-holiday/)
-- [몇 시간을 일해야 하는 걸까요?](https://blog.wonkooklee.com/domain/attendance/how-many-hours/)
-- [연차는 언제 생기고 언제 사라질까요?](https://blog.wonkooklee.com/domain/attendance/annual-leave-lifecycle/)
-- [야근하면 얼마를 더 받을까요?](https://blog.wonkooklee.com/domain/attendance/attendance-to-pay/)
-- [포괄임금제라 야근수당이 없다고요?](https://blog.wonkooklee.com/domain/attendance/overtime-in-salary/)
-
-</details>
-
-<details>
-<summary>급여 기초 (3)</summary>
-
-- [급여명세서는 어떻게 완성될까요?](https://blog.wonkooklee.com/domain/payroll/basics/payslip-pipeline/)
-- [통상임금, 왜 이렇게 다툼이 많을까요?](https://blog.wonkooklee.com/domain/payroll/basics/regular-wage/)
-- [비과세, 얼마나 빠질까요?](https://blog.wonkooklee.com/domain/payroll/basics/non-taxable-income/)
-
-</details>
-
-<details>
-<summary>소득세 (5)</summary>
-
-- [월급에서 소득세는 어떻게 떼나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/withholding/)
-- [소득세는 어떻게 계산되나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/income-tax-calculation/)
-- [근로·사업·기타소득, 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/income-tax/income-types/)
-- [월급에서 학자금이 빠진다고요?](https://blog.wonkooklee.com/domain/payroll/income-tax/student-loan-repayment/)
-- [종교인의 소득세는 어떻게 매기나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/religious-income/)
-
-</details>
-
-<details>
-<summary>4대보험 (4)</summary>
-
-- [4대보험, 한 번에 정리하면?](https://blog.wonkooklee.com/domain/payroll/social-insurance/four-insurances/)
-- [건강보험료는 월급으로만 매길까요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/health-insurance/)
-- [사회보험도 연말정산을 한다고요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/annual-report/)
-- [휴직·퇴직하면 4대보험은 어떻게 되나요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/leave-and-resignation/)
-
-</details>
-
-<details>
-<summary>퇴직급여 (3)</summary>
-
-- [퇴직금, 퇴직연금(DB·DC)은 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/retirement/severance-system/)
-- [퇴직금에는 세금이 어떻게 붙을까요?](https://blog.wonkooklee.com/domain/payroll/retirement/retirement-income-tax/)
-- [퇴직금을 미리 받을 수 있나요? (중간정산)](https://blog.wonkooklee.com/domain/payroll/retirement/interim-settlement/)
-
-</details>
-
-<details>
-<summary>연말정산 (8)</summary>
-
-- [연말정산은 결국 무엇을 계산하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/settlement-flow/)
-- [부양가족이 많으면 세금이 얼마나 줄까요?](https://blog.wonkooklee.com/domain/payroll/year-end/personal-deductions/)
-- [카드를 많이 쓰면 세금이 줄어들까요?](https://blog.wonkooklee.com/domain/payroll/year-end/credit-card-deduction/)
-- [쓴 돈으로 세금을 돌려받는 특별세액공제](https://blog.wonkooklee.com/domain/payroll/year-end/special-tax-credit/)
-- [연금저축·IRP는 왜 연말정산의 왕일까요?](https://blog.wonkooklee.com/domain/payroll/year-end/pension-account/)
-- [월세도 세금을 돌려받을 수 있나요?](https://blog.wonkooklee.com/domain/payroll/year-end/monthly-rent/)
-- [스타트업에 투자하면 세금을 돌려받나요?](https://blog.wonkooklee.com/domain/payroll/year-end/venture-investment/)
-- [연말 전에 퇴사하면 연말정산은 누가 하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/mid-year-leaver/)
-
-</details>
-
-<details>
-<summary>특례·감면 (3)</summary>
-
-- [중소기업에 취업하면 소득세를 깎아준다고요?](https://blog.wonkooklee.com/domain/payroll/special/sme-tax-reduction/)
-- [외국인 근로자의 세금은 다른가요?](https://blog.wonkooklee.com/domain/payroll/special/foreign-worker/)
-- [스톡옵션에 세금은 어떻게 붙을까요?](https://blog.wonkooklee.com/domain/payroll/special/stock-option/)
-
-</details>
-
-<details>
-<summary>회계 (1)</summary>
-
-- [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/)
-
-</details>
-
-</details>
-
 ---
 
 <details open>
@@ -242,6 +152,98 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 - [썸네일 메이커(Thumbnail Maker) 만들기](https://blog.wonkooklee.com/docs/personal-toy-projects/legendary-thumbnail-maker/)
 - [Image Zoom on Hover 이미지 뷰어 바닐라 자바스크립트로 구현하기](https://blog.wonkooklee.com/docs/personal-toy-projects/implement-image-zoom-on-hover/)
+
+</details>
+
+</details>
+
+---
+
+<details open>
+<summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
+
+<br/>
+
+프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인을, 원리부터 실무까지 풀어 정리한 시리즈입니다.
+
+<details>
+<summary>근태 (6)</summary>
+
+- [같은 회사인데 왜 근무가 다를까요?](https://blog.wonkooklee.com/domain/attendance/work-and-worker-types/)
+- [일하는 날일까요, 쉬는 날일까요?](https://blog.wonkooklee.com/domain/attendance/work-day-or-holiday/)
+- [몇 시간을 일해야 하는 걸까요?](https://blog.wonkooklee.com/domain/attendance/how-many-hours/)
+- [연차는 언제 생기고 언제 사라질까요?](https://blog.wonkooklee.com/domain/attendance/annual-leave-lifecycle/)
+- [야근하면 얼마를 더 받을까요?](https://blog.wonkooklee.com/domain/attendance/attendance-to-pay/)
+- [포괄임금제라 야근수당이 없다고요?](https://blog.wonkooklee.com/domain/attendance/overtime-in-salary/)
+
+</details>
+
+<details>
+<summary>급여 기초 (3)</summary>
+
+- [급여명세서는 어떻게 완성될까요?](https://blog.wonkooklee.com/domain/payroll/basics/payslip-pipeline/)
+- [통상임금, 왜 이렇게 다툼이 많을까요?](https://blog.wonkooklee.com/domain/payroll/basics/regular-wage/)
+- [비과세, 얼마나 빠질까요?](https://blog.wonkooklee.com/domain/payroll/basics/non-taxable-income/)
+
+</details>
+
+<details>
+<summary>소득세 (5)</summary>
+
+- [월급에서 소득세는 어떻게 떼나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/withholding/)
+- [소득세는 어떻게 계산되나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/income-tax-calculation/)
+- [근로·사업·기타소득, 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/income-tax/income-types/)
+- [월급에서 학자금이 빠진다고요?](https://blog.wonkooklee.com/domain/payroll/income-tax/student-loan-repayment/)
+- [종교인의 소득세는 어떻게 매기나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/religious-income/)
+
+</details>
+
+<details>
+<summary>4대보험 (4)</summary>
+
+- [4대보험, 한 번에 정리하면?](https://blog.wonkooklee.com/domain/payroll/social-insurance/four-insurances/)
+- [건강보험료는 월급으로만 매길까요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/health-insurance/)
+- [사회보험도 연말정산을 한다고요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/annual-report/)
+- [휴직·퇴직하면 4대보험은 어떻게 되나요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/leave-and-resignation/)
+
+</details>
+
+<details>
+<summary>퇴직급여 (3)</summary>
+
+- [퇴직금, 퇴직연금(DB·DC)은 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/retirement/severance-system/)
+- [퇴직금에는 세금이 어떻게 붙을까요?](https://blog.wonkooklee.com/domain/payroll/retirement/retirement-income-tax/)
+- [퇴직금을 미리 받을 수 있나요? (중간정산)](https://blog.wonkooklee.com/domain/payroll/retirement/interim-settlement/)
+
+</details>
+
+<details>
+<summary>연말정산 (8)</summary>
+
+- [연말정산은 결국 무엇을 계산하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/settlement-flow/)
+- [부양가족이 많으면 세금이 얼마나 줄까요?](https://blog.wonkooklee.com/domain/payroll/year-end/personal-deductions/)
+- [카드를 많이 쓰면 세금이 줄어들까요?](https://blog.wonkooklee.com/domain/payroll/year-end/credit-card-deduction/)
+- [쓴 돈으로 세금을 돌려받는 특별세액공제](https://blog.wonkooklee.com/domain/payroll/year-end/special-tax-credit/)
+- [연금저축·IRP는 왜 연말정산의 왕일까요?](https://blog.wonkooklee.com/domain/payroll/year-end/pension-account/)
+- [월세도 세금을 돌려받을 수 있나요?](https://blog.wonkooklee.com/domain/payroll/year-end/monthly-rent/)
+- [스타트업에 투자하면 세금을 돌려받나요?](https://blog.wonkooklee.com/domain/payroll/year-end/venture-investment/)
+- [연말 전에 퇴사하면 연말정산은 누가 하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/mid-year-leaver/)
+
+</details>
+
+<details>
+<summary>특례·감면 (3)</summary>
+
+- [중소기업에 취업하면 소득세를 깎아준다고요?](https://blog.wonkooklee.com/domain/payroll/special/sme-tax-reduction/)
+- [외국인 근로자의 세금은 다른가요?](https://blog.wonkooklee.com/domain/payroll/special/foreign-worker/)
+- [스톡옵션에 세금은 어떻게 붙을까요?](https://blog.wonkooklee.com/domain/payroll/special/stock-option/)
+
+</details>
+
+<details>
+<summary>회계 (1)</summary>
+
+- [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/)
 
 </details>
 

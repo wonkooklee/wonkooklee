@@ -166,7 +166,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인을, 원리부터 실무까지 풀어 정리한 시리즈입니다.
 
-<details>
+<details open>
 <summary>근태 (6)</summary>
 
 - [같은 회사인데 왜 근무가 다를까요?](https://blog.wonkooklee.com/domain/attendance/work-and-worker-types/)
@@ -178,7 +178,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>급여 기초 (3)</summary>
 
 - [급여명세서는 어떻게 완성될까요?](https://blog.wonkooklee.com/domain/payroll/basics/payslip-pipeline/)
@@ -187,7 +187,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>소득세 (5)</summary>
 
 - [월급에서 소득세는 어떻게 떼나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/withholding/)
@@ -198,7 +198,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>4대보험 (4)</summary>
 
 - [4대보험, 한 번에 정리하면?](https://blog.wonkooklee.com/domain/payroll/social-insurance/four-insurances/)
@@ -208,7 +208,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>퇴직급여 (3)</summary>
 
 - [퇴직금, 퇴직연금(DB·DC)은 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/retirement/severance-system/)
@@ -217,7 +217,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>연말정산 (8)</summary>
 
 - [연말정산은 결국 무엇을 계산하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/settlement-flow/)
@@ -231,7 +231,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>특례·감면 (3)</summary>
 
 - [중소기업에 취업하면 소득세를 깎아준다고요?](https://blog.wonkooklee.com/domain/payroll/special/sme-tax-reduction/)
@@ -240,7 +240,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>회계 (1)</summary>
 
 - [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/)

@@ -4,13 +4,13 @@
 
 🔗 [blog.wonkooklee.com](https://blog.wonkooklee.com)
 
-I design and develop touchpoints where customers interact with our services, constantly striving to convey our ideas and values through the initial screens. I focus on UI/UX, user flow, performance tuning, and interactions to ensure a pleasant and intuitive user experience.
+I design and develop the key touchpoints where users interact with our services, constantly striving to convey core ideas and values from the very first screen. My work focuses on UI/UX, user flows, performance optimization, and seamless interactions to ensure a pleasant and intuitive experience.
 
-My goal is value-driven engineering, aiming to deliver the highest customer value and experience. I have a keen interest in beautiful UI and interactions, user-friendly UX, interface design, workflow automation, and cloud computing.
+Believing in value-driven engineering, I aim to deliver maximum impact and outstanding experiences to our customers. I have a keen interest in elegant UI, user-centric UX, interface design, workflow automation, and cloud computing.
 
-As a former industrial designer with international and domestic design awards, including the Red Dot Award, I bring a unique perspective to the intersection of design and technology.
+As a former industrial designer honored with prestigious domestic and international awards—including the Red Dot Design Award—I bring a unique, design-centered perspective to the intersection of technology and user experience.
 
-If you have any questions about me, please don’t hesitate to send me a message.
+If you’d like to connect or have any questions, please feel free to send me a message.
 
 ---
 

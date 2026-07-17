@@ -18,7 +18,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 제가 일하며 배운 것들을 원리부터 정리해 [**blog.wonkooklee.com**](https://blog.wonkooklee.com)에 씁니다. 섹션과 카테고리를 펼치면 전체 글을 볼 수 있습니다.
 
-<details>
+<details open>
 <summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
 
 <br/>
@@ -108,12 +108,14 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+---
+
+<details open>
 <summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (46편)</b></summary>
 
 <br/>
 
-<details>
+<details open>
 <summary>Software Design & Theory (5)</summary>
 
 - [도메인 모델은 왜 DB를 몰라야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/pure-domain-model/)
@@ -124,7 +126,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>API & Interfaces (5)</summary>
 
 - [이 API는 누가 부르나요?](https://blog.wonkooklee.com/docs/api-and-interfaces/who-calls-this-api/)
@@ -135,7 +137,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Libraries & Frameworks (7)</summary>
 
 - [백엔드 도구들, FE로 치면 무엇일까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/be-toolbox-for-fe/)
@@ -148,7 +150,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Programming Languages (6)</summary>
 
 - [자바스크립트 Map을 Object 대신 사용해야 할 때는 언제일까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-map-instead-object/)
@@ -160,7 +162,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Database (3)</summary>
 
 - [데이터베이스 기본 개념과 용어, 한 번에 정리하기](https://blog.wonkooklee.com/docs/database/database-fundamentals/)
@@ -169,7 +171,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Network & Security (2)</summary>
 
 - [웹 보안, 신뢰 경계부터 CSP까지](https://blog.wonkooklee.com/docs/network-and-security/web-security-mental-models/)
@@ -177,7 +179,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Service Development Insights (5)</summary>
 
 - [이 블로그를 운영하며 배운 SEO](https://blog.wonkooklee.com/docs/service-development-insights/seo-lessons-from-this-blog/)
@@ -188,7 +190,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>UX · UI (2)</summary>
 
 - [프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소](https://blog.wonkooklee.com/docs/user-experience-user-interface/must-know-ui-elements-for-frontend-developers/)
@@ -196,7 +198,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Data Format (2)</summary>
 
 - [웹 환경에서 SVG 더 잘 이해하고 사용하기](https://blog.wonkooklee.com/docs/data-format/svg-in-web/)
@@ -204,7 +206,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Virtualization & Cloud (2)</summary>
 
 - [프론트엔드 개발자를 위한 Docker로 React 개발 및 배포하기](https://blog.wonkooklee.com/docs/virtualization-and-cloud/docker-for-frontend-engineer/)
@@ -212,7 +214,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Trouble Shooting & Deployment (2)</summary>
 
 - [서드파티 스크립트 초기화가 늦어질 때 어떻게 해결할까요?](https://blog.wonkooklee.com/docs/trouble-shooting/thirdparty-script-race-issue/)
@@ -220,14 +222,14 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Industry Trends (1)</summary>
 
 - [Ollama과 Self-hosting DeepSeek으로 간단한 VS Code Extension 만들기](https://blog.wonkooklee.com/docs/industry-trends-and-new-technologies/deepseek-chatbot-as-vscode-extension/)
 
 </details>
 
-<details>
+<details open>
 <summary>Coding Test (2)</summary>
 
 - [로컬에서 LeetCode 테스트 환경 설정하기](https://blog.wonkooklee.com/docs/coding-test/leetcode-local-environment/)
@@ -235,7 +237,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 </details>
 
-<details>
+<details open>
 <summary>Personal Toy Projects (2)</summary>
 
 - [썸네일 메이커(Thumbnail Maker) 만들기](https://blog.wonkooklee.com/docs/personal-toy-projects/legendary-thumbnail-maker/)
@@ -244,6 +246,8 @@ If you have any questions about me, please don’t hesitate to send me a message
 </details>
 
 </details>
+
+---
 
 <details>
 <summary><b>회고 · 커리어 · 일상 (17편)</b></summary>

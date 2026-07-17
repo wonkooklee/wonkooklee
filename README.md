@@ -14,12 +14,12 @@ If you have any questions about me, please don’t hesitate to send me a message
 
 ---
 
-## ✍️ Writing
+## Writing
 
 제가 일하며 배운 것들을 원리부터 정리해 [**blog.wonkooklee.com**](https://blog.wonkooklee.com)에 씁니다. 섹션과 카테고리를 펼치면 전체 글을 볼 수 있습니다.
 
 <details>
-<summary><b>💰 급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
+<summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
 
 <br/>
 
@@ -109,7 +109,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 </details>
 
 <details>
-<summary><b>💻 개발 — 프론트엔드 · 백엔드 · 설계 (46편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (46편)</b></summary>
 
 <br/>
 
@@ -246,7 +246,7 @@ If you have any questions about me, please don’t hesitate to send me a message
 </details>
 
 <details>
-<summary><b>🧭 회고 · 커리어 · 일상 (17편)</b></summary>
+<summary><b>회고 · 커리어 · 일상 (17편)</b></summary>
 
 <br/>
 

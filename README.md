@@ -1,8 +1,10 @@
 ![bar](https://github.com/user-attachments/assets/2806b005-d225-408c-aa26-16aee7fd3a13)
 
-## Product Engineer | Turning complex, ever-changing rules into dependable systems | Former Industrial Designer
+## Product Engineer
 
-🔗 https://blog.wonkooklee.com
+- Turning complex, ever-changing rules into dependable systems
+- Former Industrial Designer
+- https://blog.wonkooklee.com
 
 I move complex, ever-shifting rules — the kind you find in statutes and HR systems — into software people can handle without misreading. Frontend is where I'm rooted, but to see a single problem through, I'll go from the screen all the way down to the database. Where a PM or designer is missing, I fill the gap myself — writing the PRD, modeling the data, designing the screens.
 

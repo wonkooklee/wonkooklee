@@ -1,16 +1,16 @@
 ![bar](https://github.com/user-attachments/assets/2806b005-d225-408c-aa26-16aee7fd3a13)
 
-## **Enthusiastic Frontend Engineer** | **Crafting Engaging User Interfaces** | **Passionate About Modern Web Technologies**
+## Product Engineer | Turning complex, ever-changing rules into dependable systems | Former Industrial Designer
 
-🔗 [blog.wonkooklee.com](https://blog.wonkooklee.com)
+🔗 https://blog.wonkooklee.com
 
-I design and develop the key touchpoints where users interact with our services, constantly striving to convey core ideas and values from the very first screen. My work focuses on UI/UX, user flows, performance optimization, and seamless interactions to ensure a pleasant and intuitive experience.
+I move complex, ever-shifting rules — the kind you find in statutes and HR systems — into software people can handle without misreading. Frontend is where I'm rooted, but to see a single problem through, I'll go from the screen all the way down to the database. Where a PM or designer is missing, I fill the gap myself — writing the PRD, modeling the data, designing the screens.
 
-Believing in value-driven engineering, I aim to deliver maximum impact and outstanding experiences to our customers. I have a keen interest in elegant UI, user-centric UX, interface design, workflow automation, and cloud computing.
+When someone asks what my work really is, I reach for a single word: interface — the seam where two different systems meet. I don't confine it to a particular UI, framework, or API; its value, I've come to believe, lies in designing the space between different parties so they meet without friction. I'd rather decide with data than instinct, and when the data isn't there yet, I build the means to gather it.
 
-As a former industrial designer honored with prestigious domestic and international awards—including the Red Dot Design Award—I bring a unique, design-centered perspective to the intersection of technology and user experience.
+I began as an industrial designer before I ever wrote software. That perspective — including a Red Dot Design Award, among others — still shapes how I read the seam where design meets technology.
 
-If you’d like to connect or have any questions, please feel free to send me a message.
+If you'd like to connect, or have anything you're curious about, feel free to send me a message.
 
 ---
 

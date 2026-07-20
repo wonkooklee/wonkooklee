@@ -28,9 +28,8 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <br/>
 
 <details open>
-<summary>Software Design & Theory (6)</summary>
+<summary>Software Design & Theory (5)</summary>
 
-- [무엇을 상태로 두지 말아야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/what-not-to-put-in-state/)
 - [도메인 모델은 왜 DB를 몰라야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/pure-domain-model/)
 - [DB 조회는 왜 아웃바운드일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/inbound-outbound-and-dip/)
 - [그 로직은 어디에 살아야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/where-logic-lives/)
@@ -51,8 +50,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Libraries & Frameworks (7)</summary>
+<summary>Libraries & Frameworks (8)</summary>
 
+- [무엇을 상태로 두지 말아야 할까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/what-not-to-put-in-state/)
 - [백엔드 도구들, FE로 치면 무엇일까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/be-toolbox-for-fe/)
 - [스프링(Spring)은 프론트엔드의 무엇과 닮았을까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/spring-for-frontend-developers/)
 - [shadcn/ui 핵심 개념과 아키텍처 이해하기](https://blog.wonkooklee.com/docs/libraries-and-frameworks/anatomy-of-shadcn-ui/)

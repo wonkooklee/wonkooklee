@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (47편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (48편)</b></summary>
 
 <br/>
 
@@ -64,11 +64,12 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Programming Languages (6)</summary>
+<summary>Programming Languages (7)</summary>
 
 - [자바스크립트 Map을 Object 대신 사용해야 할 때는 언제일까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-map-instead-object/)
 - [자바스크립트 Promise 체인 이해하기 | 좌표로 국가 정보 가져오기](https://blog.wonkooklee.com/docs/programming-languages/js-promise-example/)
 - [자바스크립트의 비동기 처리와 AJAX, API 개념의 이해](https://blog.wonkooklee.com/docs/programming-languages/javascript-async-ajax-api/)
+- [취소는 에러인가요? — 비동기 에러의 최후 방어선과 AbortController](https://blog.wonkooklee.com/docs/programming-languages/async-error-boundaries-and-abortcontroller/)
 - [ES6 Modules: Named Export vs. Default Export](https://blog.wonkooklee.com/docs/programming-languages/es6-module-export/)
 - [정규표현식(Regular Expression) 기초부터 실전 활용까지 | Part 1](https://blog.wonkooklee.com/docs/programming-languages/regular-expression-javascript/)
 - [정규표현식(Regular Expression) 반복 패턴 활용 | Part 2](https://blog.wonkooklee.com/docs/programming-languages/using-regular-expressions/)

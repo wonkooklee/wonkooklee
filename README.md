@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (48편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (51편)</b></summary>
 
 <br/>
 
@@ -39,8 +39,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>API & Interfaces (5)</summary>
+<summary>API & Interfaces (6)</summary>
 
+- [이 필드는 UTC여야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/time-in-api-contracts/)
 - [이 API는 누가 부르나요?](https://blog.wonkooklee.com/docs/api-and-interfaces/who-calls-this-api/)
 - [Response는 모델을 닮아야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/model-vs-response/)
 - [null은 비우기일까요, 건드리지 않기일까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/patch-null-ambiguity/)
@@ -64,8 +65,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Programming Languages (7)</summary>
+<summary>Programming Languages (8)</summary>
 
+- [왜 날짜만 넣었는데 하루 전이 나올까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-date-pitfalls/)
 - [자바스크립트 Map을 Object 대신 사용해야 할 때는 언제일까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-map-instead-object/)
 - [자바스크립트 Promise 체인 이해하기 | 좌표로 국가 정보 가져오기](https://blog.wonkooklee.com/docs/programming-languages/js-promise-example/)
 - [자바스크립트의 비동기 처리와 AJAX, API 개념의 이해](https://blog.wonkooklee.com/docs/programming-languages/javascript-async-ajax-api/)
@@ -90,6 +92,13 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 
 - [웹 보안, 신뢰 경계부터 CSP까지](https://blog.wonkooklee.com/docs/network-and-security/web-security-mental-models/)
 - [왜 Authorization "Bearer"인가요?](https://blog.wonkooklee.com/docs/network-and-security/why-authorization-bearer/)
+
+</details>
+
+<details open>
+<summary>Computing Background Knowledge (1)</summary>
+
+- ['오후 3시'는 언제인가요?](https://blog.wonkooklee.com/docs/computing-background-knowledge/absolute-time-and-wall-clock/)
 
 </details>
 

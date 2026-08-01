@@ -172,7 +172,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 
 ---
 
-<details open>
+<details>
 <summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
 
 <br/>

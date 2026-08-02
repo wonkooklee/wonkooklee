@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (51편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (52편)</b></summary>
 
 <br/>
 
@@ -138,8 +138,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Trouble Shooting & Deployment (2)</summary>
+<summary>Trouble Shooting & Deployment (3)</summary>
 
+- [뒤로가기 한 번에 두 칸씩 가는 이유는 뭘까요?](https://blog.wonkooklee.com/docs/trouble-shooting/webview-funnel-history-stack/)
 - [서드파티 스크립트 초기화가 늦어질 때 어떻게 해결할까요?](https://blog.wonkooklee.com/docs/trouble-shooting/thirdparty-script-race-issue/)
 - [Next.js 서버 인스턴스 배포할때 나타나는 화이트아웃 현상 트러블 슈팅](https://blog.wonkooklee.com/docs/deployment-and-operations-strategy/next-server-cdn-host/)
 

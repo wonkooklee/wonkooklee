@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (52편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (53편)</b></summary>
 
 <br/>
 
@@ -51,7 +51,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Libraries & Frameworks (8)</summary>
+<summary>Libraries & Frameworks (9)</summary>
 
 - [무엇을 상태로 두지 말아야 할까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/what-not-to-put-in-state/)
 - [백엔드 도구들, FE로 치면 무엇일까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/be-toolbox-for-fe/)
@@ -61,6 +61,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [TypeScript가 JSX를 변환하는 방법과 JSX Transform에 대해](https://blog.wonkooklee.com/docs/libraries-and-frameworks/typescript-jsx-transpiling/)
 - [npm install시 —force와 —legacy-peer-deps은 왜 사용할까?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/upstream-dependency-conflict/)
 - [Vuex와 함께하는 더 나은 전역 상태 관리](https://blog.wonkooklee.com/docs/libraries-and-frameworks/vuex/)
+- [쿼리 키는 어떻게 캐시 주소가 되나요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/react-query-cache-internals/)
 
 </details>
 

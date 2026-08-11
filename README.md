@@ -23,13 +23,14 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (53편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (54편)</b></summary>
 
 <br/>
 
 <details open>
-<summary>Software Design & Theory (5)</summary>
+<summary>Software Design & Theory (6)</summary>
 
+- [이 응답은 누구 것인가요?](https://blog.wonkooklee.com/docs/software-design-and-theory/whose-response-is-this/)
 - [도메인 모델은 왜 DB를 몰라야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/pure-domain-model/)
 - [DB 조회는 왜 아웃바운드일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/inbound-outbound-and-dip/)
 - [그 로직은 어디에 살아야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/where-logic-lives/)

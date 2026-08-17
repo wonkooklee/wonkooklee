@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (54편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (55편)</b></summary>
 
 <br/>
 
@@ -81,11 +81,12 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Database (3)</summary>
+<summary>Database (4)</summary>
 
 - [데이터베이스 기본 개념과 용어, 한 번에 정리하기](https://blog.wonkooklee.com/docs/database/database-fundamentals/)
 - [컬럼일까요, JSON 컬럼일까요?](https://blog.wonkooklee.com/docs/database/column-or-json-column/)
 - [DB 스키마에도 git이 필요할까요?](https://blog.wonkooklee.com/docs/database/db-schema-version-control/)
+- [무중단 스키마 마이그레이션과 expand-contract](https://blog.wonkooklee.com/docs/database/zero-downtime-migration/)
 
 </details>
 

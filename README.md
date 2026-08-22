@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (56편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (57편)</b></summary>
 
 <br/>
 
@@ -100,9 +100,10 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Computing Background Knowledge (1)</summary>
+<summary>Computing Background Knowledge (2)</summary>
 
 - ['오후 3시'는 언제인가요?](https://blog.wonkooklee.com/docs/computing-background-knowledge/absolute-time-and-wall-clock/)
+- ['한'은 한 글자일까요?](https://blog.wonkooklee.com/docs/computing-background-knowledge/string-implicit-contract/)
 
 </details>
 

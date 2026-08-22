@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (55편)</b></summary>
+<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (56편)</b></summary>
 
 <br/>
 
@@ -91,8 +91,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Network & Security (2)</summary>
+<summary>Network & Security (3)</summary>
 
+- [이 토큰은 누구를 위한 것인가요?](https://blog.wonkooklee.com/docs/network-and-security/oauth-oidc-auth-architecture/)
 - [웹 보안, 신뢰 경계부터 CSP까지](https://blog.wonkooklee.com/docs/network-and-security/web-security-mental-models/)
 - [왜 Authorization "Bearer"인가요?](https://blog.wonkooklee.com/docs/network-and-security/why-authorization-bearer/)
 

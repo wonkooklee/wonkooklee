@@ -6,11 +6,11 @@
 - Former Industrial Designer
 - https://blog.wonkooklee.com
 
-I move complex, ever-shifting rules — the kind you find in statutes and HR systems — into software people can handle without misreading. Frontend is where I'm rooted, but to see a single problem through, I'll go from the screen all the way down to the database. Where a PM or designer is missing, I fill the gap myself — writing the PRD, modeling the data, designing the screens.
+I move complex, ever-shifting rules (the kind you find in statutes and HR systems) into software people can handle without misreading. Frontend is where I'm rooted, but to see a single problem through, I'll go from the screen all the way down to the database. Where a PM or designer is missing, I fill the gap myself, writing the PRD, modeling the data, designing the screens.
 
-When someone asks what my work really is, I reach for a single word: interface — the seam where two different systems meet. I don't confine it to a particular UI, framework, or API; its value, I've come to believe, lies in designing the space between different parties so they meet without friction. I'd rather decide with data than instinct, and when the data isn't there yet, I build the means to gather it.
+When someone asks what my work really is, I reach for a single word: interface (the seam where two different systems meet). I don't confine it to a particular UI, framework, or API; its value, I've come to believe, lies in designing the space between different parties so they meet without friction. I'd rather decide with data than instinct, and when the data isn't there yet, I build the means to gather it.
 
-I began as an industrial designer before I ever wrote software. That perspective — including a Red Dot Design Award, among others — still shapes how I read the seam where design meets technology.
+I began as an industrial designer before I ever wrote software. That perspective (including a Red Dot Design Award, among others) still shapes how I read the seam where design meets technology.
 
 If you'd like to connect, or have anything you're curious about, feel free to send me a message.
 

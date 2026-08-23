@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 — 프론트엔드 · 백엔드 · 설계 (57편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (57편)</b></summary>
 
 <br/>
 
@@ -179,11 +179,11 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>급여·근태·회계 — HR 도메인 지식 (33편)</b></summary>
+<summary><b>급여·근태·회계·결제 · 업무 도메인 지식 (39편)</b></summary>
 
 <br/>
 
-프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인을, 원리부터 실무까지 풀어 정리한 시리즈입니다.
+프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인과 카드 결제 산업의 구조를, 원리부터 실무까지 풀어 정리한 시리즈입니다.
 
 <details open>
 <summary>근태 (6)</summary>
@@ -263,6 +263,18 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <summary>회계 (1)</summary>
 
 - [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/)
+
+</details>
+
+<details open>
+<summary>결제 (6)</summary>
+
+- [카드를 긋는 순간 무슨 일이 벌어질까요?](https://blog.wonkooklee.com/domain/payments/authorization-to-settlement/)
+- [PG와 VAN은 뭐가 다른가요?](https://blog.wonkooklee.com/domain/payments/pg-and-van/)
+- [취소는 왜 두 종류인가요?](https://blog.wonkooklee.com/domain/payments/cancel-and-network-cancel/)
+- [결제 수수료는 누가 얼마를 가져가나요?](https://blog.wonkooklee.com/domain/payments/merchant-fee/)
+- [카드번호를 저장하지 않고 어떻게 매달 결제할까요?](https://blog.wonkooklee.com/domain/payments/billing-key/)
+- [카드 매출은 어떻게 장부와 세금이 될까요?](https://blog.wonkooklee.com/domain/payments/sales-to-books/)
 
 </details>
 

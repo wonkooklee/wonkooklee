@@ -283,10 +283,11 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>회고 · 커리어 · 일상 (18편)</b></summary>
+<summary><b>회고 · 커리어 · 일상 (19편)</b></summary>
 
 <br/>
 
+- [문제의 경계는 직군의 경계와 다르다](https://blog.wonkooklee.com/blog/20260824_01/)
 - [블로그에 미니게임 만들어 넣기](https://blog.wonkooklee.com/blog/20260816_01/)
 - [전방으로 배치된 엔지니어](https://blog.wonkooklee.com/blog/20260627_01/)
 - [짚을 것과 넘길 것](https://blog.wonkooklee.com/blog/20260620_01/)

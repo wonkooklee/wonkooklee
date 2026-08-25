@@ -290,7 +290,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [문제의 경계는 직군의 경계와 다르다](https://blog.wonkooklee.com/blog/20260824_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [블로그에 미니게임 만들어 넣기](https://blog.wonkooklee.com/blog/20260816_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [전방으로 배치된 엔지니어](https://blog.wonkooklee.com/blog/20260627_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
-- [생성 비용은 줄었는데, 검증 비용은 어디로 갔을까?](https://blog.wonkooklee.com/blog/20260620_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
+- [생성 비용이 줄면 검증 비용도 줄까?](https://blog.wonkooklee.com/blog/20260620_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [옳은 코드와 맞는 코드](https://blog.wonkooklee.com/blog/20260618_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [《논어》 君子求諸己, 小人求諸人](https://blog.wonkooklee.com/blog/20250205_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [설 연휴 OKR 달성률 회고](https://blog.wonkooklee.com/blog/20250203_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)

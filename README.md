@@ -283,7 +283,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>회고 · 커리어 · 일상 (19편)</b></summary>
+<summary><b>회고 · 커리어 · 일상 (18편)</b></summary>
 
 <br/>
 
@@ -292,7 +292,6 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [전방으로 배치된 엔지니어](https://blog.wonkooklee.com/blog/20260627_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [생산성이라는 이름의 비용 떠넘기기](https://blog.wonkooklee.com/blog/20260620_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [옳은 코드와 맞는 코드](https://blog.wonkooklee.com/blog/20260618_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
-- [《논어》 君子求諸己, 小人求諸人](https://blog.wonkooklee.com/blog/20250205_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [설 연휴 OKR 달성률 회고](https://blog.wonkooklee.com/blog/20250203_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [국내외 기업 기술 블로그 모음](https://blog.wonkooklee.com/blog/20250201_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [지난 1년간 연주했던 곡들](https://blog.wonkooklee.com/blog/20250128_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)

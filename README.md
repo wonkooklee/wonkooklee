@@ -180,7 +180,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>급여·근태·회계·결제 · 업무 도메인 지식 (39편)</b></summary>
+<summary><b>급여·근태·회계·결제·개인정보 · 업무 도메인 지식 (42편)</b></summary>
 
 <br/>
 
@@ -264,6 +264,15 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <summary>회계 (1)</summary>
 
 - [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
+
+</details>
+
+<details open>
+<summary>개인정보 (3)</summary>
+
+- [이 값도 개인정보인가요?](https://blog.wonkooklee.com/domain/privacy/what-is-personal-data/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
+- [이 데이터는 위탁받은 건가요, 넘겨받은 건가요?](https://blog.wonkooklee.com/domain/privacy/entrust-or-provide/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
+- [가명처리하면 AI 학습에 써도 되나요?](https://blog.wonkooklee.com/domain/privacy/pseudonymization-and-ai/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 
 </details>
 

@@ -35,7 +35,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [DB 조회는 왜 아웃바운드일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/inbound-outbound-and-dip/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [그 로직은 어디에 살아야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/where-logic-lives/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [타입스크립트로 잘못된 상태 막기](https://blog.wonkooklee.com/docs/software-design-and-theory/make-illegal-states-unrepresentable/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [코드의 유지보수성과 확장성을 결정하는 응집도와 결합도](https://blog.wonkooklee.com/docs/software-design-and-theory/software-cohesion-and-coupling/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [응집도와 결합도로 살펴보는 프론트엔드 코드 설계](https://blog.wonkooklee.com/docs/software-design-and-theory/software-cohesion-and-coupling/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 
@@ -44,10 +44,10 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 
 - [이 필드는 UTC여야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/time-in-api-contracts/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 API는 누가 부르나요?](https://blog.wonkooklee.com/docs/api-and-interfaces/who-calls-this-api/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [Response는 모델을 닮아야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/model-vs-response/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [API 응답은 모델을 닮아야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/model-vs-response/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [null은 비우기일까요, 건드리지 않기일까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/patch-null-ambiguity/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [DocumentFragment 객체는 무엇이며, 왜 써야 할까?](https://blog.wonkooklee.com/docs/api-and-interfaces/document-fragment/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [웹앱의 사용성을 높이는 Web Worker와 Service Worker에 대해 알아보기](https://blog.wonkooklee.com/docs/api-and-interfaces/web-worker-service-worker/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [DocumentFragment는 언제 쓰면 좋을까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/document-fragment/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [Web Worker와 Service Worker는 어떻게 다를까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/web-worker-service-worker/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 
@@ -58,10 +58,10 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [백엔드 도구들, FE로 치면 무엇일까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/be-toolbox-for-fe/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [스프링(Spring)은 프론트엔드의 무엇과 닮았을까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/spring-for-frontend-developers/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [shadcn/ui 핵심 개념과 아키텍처 이해하기](https://blog.wonkooklee.com/docs/libraries-and-frameworks/anatomy-of-shadcn-ui/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [tailwindcss 4.0 무엇이 달라졌나요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/tailwindcss-4/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [TypeScript가 JSX를 변환하는 방법과 JSX Transform에 대해](https://blog.wonkooklee.com/docs/libraries-and-frameworks/typescript-jsx-transpiling/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [npm install시 --force와 --legacy-peer-deps은 왜 사용할까?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/upstream-dependency-conflict/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [Vuex와 함께하는 더 나은 전역 상태 관리](https://blog.wonkooklee.com/docs/libraries-and-frameworks/vuex/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [Tailwind CSS 4.0, 무엇이 달라졌나요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/tailwindcss-4/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [TypeScript는 JSX를 어떻게 변환할까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/typescript-jsx-transpiling/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [npm의 --force와 --legacy-peer-deps는 어떻게 다를까요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/upstream-dependency-conflict/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [Vuex로 전역 상태와 스토어 모듈 관리하기](https://blog.wonkooklee.com/docs/libraries-and-frameworks/vuex/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [쿼리 키는 어떻게 캐시 주소가 되나요?](https://blog.wonkooklee.com/docs/libraries-and-frameworks/react-query-cache-internals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
@@ -72,11 +72,11 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [왜 날짜만 넣었는데 하루 전이 나올까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-date-pitfalls/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [자바스크립트 Map을 Object 대신 사용해야 할 때는 언제일까요?](https://blog.wonkooklee.com/docs/programming-languages/javascript-map-instead-object/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [자바스크립트 Promise 체인 이해하기 | 좌표로 국가 정보 가져오기](https://blog.wonkooklee.com/docs/programming-languages/js-promise-example/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [자바스크립트의 비동기 처리와 AJAX, API 개념의 이해](https://blog.wonkooklee.com/docs/programming-languages/javascript-async-ajax-api/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [자바스크립트 비동기 처리와 AJAX·API의 관계](https://blog.wonkooklee.com/docs/programming-languages/javascript-async-ajax-api/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [취소는 에러인가요? 비동기 에러의 최후 방어선과 AbortController](https://blog.wonkooklee.com/docs/programming-languages/async-error-boundaries-and-abortcontroller/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [ES6 Modules: Named Export vs. Default Export](https://blog.wonkooklee.com/docs/programming-languages/es6-module-export/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [정규표현식(Regular Expression) 기초부터 실전 활용까지 | Part 1](https://blog.wonkooklee.com/docs/programming-languages/regular-expression-javascript/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [정규표현식(Regular Expression) 반복 패턴 활용 | Part 2](https://blog.wonkooklee.com/docs/programming-languages/using-regular-expressions/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [자바스크립트 정규표현식: 메서드와 문자 집합 | Part 1](https://blog.wonkooklee.com/docs/programming-languages/regular-expression-javascript/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [자바스크립트 정규표현식: 수량자와 탐욕·지연 매칭 | Part 2](https://blog.wonkooklee.com/docs/programming-languages/using-regular-expressions/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 
@@ -85,7 +85,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 
 - [데이터베이스 기본 개념과 용어, 한 번에 정리하기](https://blog.wonkooklee.com/docs/database/database-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [컬럼일까요, JSON 컬럼일까요?](https://blog.wonkooklee.com/docs/database/column-or-json-column/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [DB 스키마에도 git이 필요할까요?](https://blog.wonkooklee.com/docs/database/db-schema-version-control/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [DB 스키마에도 Git이 필요할까요?](https://blog.wonkooklee.com/docs/database/db-schema-version-control/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [무중단 스키마 마이그레이션과 expand-contract](https://blog.wonkooklee.com/docs/database/zero-downtime-migration/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
@@ -130,8 +130,8 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <details open>
 <summary>Data Format (2)</summary>
 
-- [웹 환경에서 SVG 더 잘 이해하고 사용하기](https://blog.wonkooklee.com/docs/data-format/svg-in-web/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [HEIC 이미지를 JPEG로 변환하기 | heic-convert 사용법](https://blog.wonkooklee.com/docs/data-format/heic-to-jpeg/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [SVG는 웹에서 어떻게 쓰고 관리할까요?](https://blog.wonkooklee.com/docs/data-format/svg-in-web/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [HEIC 이미지를 JPEG로 변환하기](https://blog.wonkooklee.com/docs/data-format/heic-to-jpeg/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 
@@ -139,7 +139,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <summary>Virtualization & Cloud (2)</summary>
 
 - [프론트엔드 개발자를 위한 Docker로 React 개발 및 배포하기](https://blog.wonkooklee.com/docs/virtualization-and-cloud/docker-for-frontend-engineer/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [Lambda 스케줄링으로 매일 아침 자동으로 노션 페이지 만들기](https://blog.wonkooklee.com/docs/virtualization-and-cloud/automate-notion-page-by-lambda/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [AWS Lambda로 매일 아침 노션 페이지 만들기](https://blog.wonkooklee.com/docs/virtualization-and-cloud/automate-notion-page-by-lambda/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 
@@ -163,7 +163,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 <summary>Coding Test (2)</summary>
 
 - [로컬에서 LeetCode 테스트 환경 설정하기](https://blog.wonkooklee.com/docs/coding-test/leetcode-local-environment/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
-- [행렬의 개념과 연산 및 코딩테스트](https://blog.wonkooklee.com/docs/coding-test/matrix-operations/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [행렬의 기본 연산과 곱셈 코딩 테스트](https://blog.wonkooklee.com/docs/coding-test/matrix-operations/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>
 

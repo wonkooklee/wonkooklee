@@ -244,7 +244,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [부양가족이 많으면 세금이 얼마나 줄까요?](https://blog.wonkooklee.com/domain/payroll/year-end/personal-deductions/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [카드를 많이 쓰면 세금이 줄어들까요?](https://blog.wonkooklee.com/domain/payroll/year-end/credit-card-deduction/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [쓴 돈으로 세금을 돌려받는 특별세액공제](https://blog.wonkooklee.com/domain/payroll/year-end/special-tax-credit/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
-- [연금저축·IRP는 왜 연말정산의 왕일까요?](https://blog.wonkooklee.com/domain/payroll/year-end/pension-account/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
+- [연금저축·IRP는 세금을 얼마나 줄여 줄까요?](https://blog.wonkooklee.com/domain/payroll/year-end/pension-account/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [월세도 세금을 돌려받을 수 있나요?](https://blog.wonkooklee.com/domain/payroll/year-end/monthly-rent/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [스타트업에 투자하면 세금을 돌려받나요?](https://blog.wonkooklee.com/domain/payroll/year-end/venture-investment/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [연말 전에 퇴사하면 연말정산은 누가 하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/mid-year-leaver/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)

@@ -293,10 +293,11 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>회고 · 커리어 · 일상 (21편)</b></summary>
+<summary><b>회고 · 커리어 · 일상 (22편)</b></summary>
 
 <br/>
 
+- [다시 찾은 창작의 즐거움](https://blog.wonkooklee.com/blog/20260913_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [믿지도 않는 오늘의 운세를 매일 읽는 이유](https://blog.wonkooklee.com/blog/20260908_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [AI 시대의 탑다운 학습과 생성 후 이해](https://blog.wonkooklee.com/blog/20260830_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [문제의 경계는 직군의 경계와 다르다](https://blog.wonkooklee.com/blog/20260824_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)

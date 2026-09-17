@@ -23,13 +23,14 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (58편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (59편)</b></summary>
 
 <br/>
 
 <details open>
-<summary>Software Design & Theory (6)</summary>
+<summary>Software Design & Theory (7)</summary>
 
+- [메시지 큐, 큐와 로그부터 순서 보장까지](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 응답은 누구 것인가요?](https://blog.wonkooklee.com/docs/software-design-and-theory/whose-response-is-this/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [도메인 모델은 왜 DB를 몰라야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/pure-domain-model/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [DB 조회는 왜 아웃바운드일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/inbound-outbound-and-dip/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)

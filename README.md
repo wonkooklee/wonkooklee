@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (59편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (61편)</b></summary>
 
 <br/>
 
@@ -41,8 +41,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>API & Interfaces (6)</summary>
+<summary>API & Interfaces (7)</summary>
 
+- [브라우저에서 실시간성을 어떻게 보장하나요?](https://blog.wonkooklee.com/docs/api-and-interfaces/browser-realtime/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 필드는 UTC여야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/time-in-api-contracts/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 API는 누가 부르나요?](https://blog.wonkooklee.com/docs/api-and-interfaces/who-calls-this-api/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [API 응답은 모델을 닮아야 할까요?](https://blog.wonkooklee.com/docs/api-and-interfaces/model-vs-response/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
@@ -110,8 +111,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Service Development Insights (5)</summary>
+<summary>Service Development Insights (6)</summary>
 
+- [당신이 개인 블로그를 직접 운영해야 하는 이유](https://blog.wonkooklee.com/docs/service-development-insights/blog-as-a-small-web-service/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 블로그를 운영하며 배운 SEO](https://blog.wonkooklee.com/docs/service-development-insights/seo-lessons-from-this-blog/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [웹 퍼포먼스 최적화와 유저 행동 분석으로 전환율을 끌어올린 방법](https://blog.wonkooklee.com/docs/service-development-insights/proactive-service-improvement/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [순수한 창작의 즐거움이 조직의 생산성으로 이어질 수 있을까?](https://blog.wonkooklee.com/docs/service-development-insights/joy-of-orderly-creation/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)

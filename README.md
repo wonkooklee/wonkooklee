@@ -296,10 +296,11 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>회고 · 커리어 · 일상 (23편)</b></summary>
+<summary><b>회고 · 커리어 · 일상 (24편)</b></summary>
 
 <br/>
 
+- [AI 시대 개발자의 사회심리적 불안](https://blog.wonkooklee.com/blog/20260922_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [소프트웨어 엔지니어링의 종말](https://blog.wonkooklee.com/blog/20260913_02/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [다시 찾은 창작의 즐거움](https://blog.wonkooklee.com/blog/20260913_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [믿지도 않는 오늘의 운세를 매일 읽는 이유](https://blog.wonkooklee.com/blog/20260908_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)

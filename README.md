@@ -23,13 +23,14 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (61편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (62편)</b></summary>
 
 <br/>
 
 <details open>
-<summary>Software Design & Theory (7)</summary>
+<summary>Software Design & Theory (8)</summary>
 
+- [테넌트와 테넌시란 무엇일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/tenancy-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [메시지 큐, 큐와 로그부터 순서 보장까지](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 응답은 누구 것인가요?](https://blog.wonkooklee.com/docs/software-design-and-theory/whose-response-is-this/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [도메인 모델은 왜 DB를 몰라야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/pure-domain-model/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)

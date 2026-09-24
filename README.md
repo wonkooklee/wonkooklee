@@ -323,7 +323,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [WebGL로 사내 해커톤 1등하기](https://blog.wonkooklee.com/blog/20241015_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [인프런 심야 FE 네트워킹 데이 후기](https://blog.wonkooklee.com/blog/20220619_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [프론트엔드 아무개씨의 6월 회고](https://blog.wonkooklee.com/blog/20220617_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
-- [프론트엔드 개발자로서 좋았던 책들 · 간단한 서평](https://blog.wonkooklee.com/blog/20220226_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
+- [프론트엔드 개발자로서 좋았던 책들](https://blog.wonkooklee.com/blog/20220226_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 - [개발자가 되었다.](https://blog.wonkooklee.com/blog/20220203_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 
 </details>

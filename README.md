@@ -23,12 +23,12 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details open>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (62편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (63편)</b></summary>
 
 <br/>
 
 <details open>
-<summary>Software Design & Theory (8)</summary>
+<summary>Software Design & Theory (9)</summary>
 
 - [테넌트와 테넌시란 무엇일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/tenancy-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [메시지 큐, 큐와 로그부터 순서 보장까지](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
@@ -37,6 +37,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 - [DB 조회는 왜 아웃바운드일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/inbound-outbound-and-dip/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [그 로직은 어디에 살아야 할까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/where-logic-lives/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [타입스크립트로 잘못된 상태 막기](https://blog.wonkooklee.com/docs/software-design-and-theory/make-illegal-states-unrepresentable/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
+- [ETL이란 무엇인가요? 데이터를 옮기는 세 단계](https://blog.wonkooklee.com/docs/software-design-and-theory/what-is-etl/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [응집도와 결합도로 살펴보는 프론트엔드 코드 설계](https://blog.wonkooklee.com/docs/software-design-and-theory/software-cohesion-and-coupling/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>

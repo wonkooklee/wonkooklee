@@ -22,7 +22,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 
 ---
 
-<details open>
+<details>
 <summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (63편)</b></summary>
 
 <br/>

@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (64편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (63편)</b></summary>
 
 <br/>
 
@@ -158,9 +158,8 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Industry Trends (2)</summary>
+<summary>Industry Trends (1)</summary>
 
-- [Claude Opus 5.5에는 어떻게 일을 맡겨야 할까요?](https://blog.wonkooklee.com/docs/industry-trends-and-new-technologies/claude-opus-5-5-prompting-guide/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [Ollama과 Self-hosting DeepSeek으로 간단한 VS Code Extension 만들기](https://blog.wonkooklee.com/docs/industry-trends-and-new-technologies/deepseek-chatbot-as-vscode-extension/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 
 </details>

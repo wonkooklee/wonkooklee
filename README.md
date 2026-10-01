@@ -23,7 +23,7 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 ---
 
 <details>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (63편)</b></summary>
+<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (64편)</b></summary>
 
 <br/>
 
@@ -95,8 +95,9 @@ If you'd like to connect, or have anything you're curious about, feel free to se
 </details>
 
 <details open>
-<summary>Network & Security (3)</summary>
+<summary>Network & Security (4)</summary>
 
+- [내 도메인에서 보낸 이메일은 어떻게 진짜임을 증명할까](https://blog.wonkooklee.com/docs/network-and-security/email-sender-authentication/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [이 토큰은 누구를 위한 것인가요?](https://blog.wonkooklee.com/docs/network-and-security/oauth-oidc-auth-architecture/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [웹 보안, 신뢰 경계부터 CSP까지](https://blog.wonkooklee.com/docs/network-and-security/web-security-mental-models/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)
 - [왜 Authorization "Bearer"인가요?](https://blog.wonkooklee.com/docs/network-and-security/why-authorization-bearer/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=docs)

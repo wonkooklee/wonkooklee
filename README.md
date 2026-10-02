@@ -1,16 +1,36 @@
-## Product Engineer
+## Latest Posts
 
-I build software for rules that are complex and keep changing: statutes, payroll, payment settlement. The aim is a system people can rely on without misreading it.
+<!-- recent-posts:start (blog.wonkooklee.com 저장소의 scripts/profile-readme/build-carousel.mjs --apply 가 만든다) -->
 
-I'm rooted in the frontend, but I follow a problem wherever it leads, down to the API and the database. When a team has no PM or designer, I write the PRD, model the data, and design the screens myself.
+<picture>
+  <source media="(max-width: 351px)" srcset="assets/recent-posts/carousel-0.svg">
+  <source media="(min-width: 352px) and (max-width: 381px)" srcset="assets/recent-posts/carousel-1.svg">
+  <source media="(min-width: 382px) and (max-width: 417px)" srcset="assets/recent-posts/carousel-2.svg">
+  <source media="(min-width: 418px) and (max-width: 457px)" srcset="assets/recent-posts/carousel-3.svg">
+  <source media="(min-width: 458px) and (max-width: 501px), (min-width: 768px) and (max-width: 789px)" srcset="assets/recent-posts/carousel-4.svg">
+  <source media="(min-width: 502px) and (max-width: 551px), (min-width: 790px) and (max-width: 839px)" srcset="assets/recent-posts/carousel-5.svg">
+  <source media="(min-width: 552px) and (max-width: 607px), (min-width: 840px) and (max-width: 895px)" srcset="assets/recent-posts/carousel-6.svg">
+  <source media="(min-width: 608px) and (max-width: 671px), (min-width: 896px) and (max-width: 959px), (min-width: 1012px) and (max-width: 1023px)" srcset="assets/recent-posts/carousel-7.svg">
+  <source media="(min-width: 672px) and (max-width: 741px), (min-width: 960px) and (max-width: 1011px), (min-width: 1024px) and (max-width: 1093px)" srcset="assets/recent-posts/carousel-8.svg">
+  <source media="(min-width: 742px) and (max-width: 767px), (min-width: 1094px) and (max-width: 1173px)" srcset="assets/recent-posts/carousel-9.svg">
+  <source media="(min-width: 1174px) and (max-width: 1263px)" srcset="assets/recent-posts/carousel-10.svg">
+  <img alt="최근 글: 내 도메인에서 보낸 이메일은 어떻게 진짜임을 증명할까 / 테넌트와 테넌시란 무엇일까요? / AI 시대 개발자의 사회심리적 불안 / 당신이 개인 블로그를 직접 운영해야 하는 이유 / 메시지 큐, 큐와 로그부터 순서 보장까지 / 소프트웨어 엔지니어링의 종말" src="assets/recent-posts/carousel-11.svg" width="100%">
+</picture>
+<br><br>
 
-What I care about most is the interface, the seam where two systems meet. I'd rather decide with data than instinct, and when the data doesn't exist yet, I build a way to collect it.
+**TechLog**
 
----
+- [내 도메인에서 보낸 이메일은 어떻게 진짜임을 증명할까](https://blog.wonkooklee.com/docs/network-and-security/email-sender-authentication/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
+- [테넌트와 테넌시란 무엇일까요?](https://blog.wonkooklee.com/docs/software-design-and-theory/tenancy-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
+- [당신이 개인 블로그를 직접 운영해야 하는 이유](https://blog.wonkooklee.com/docs/service-development-insights/blog-as-a-small-web-service/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
+- [메시지 큐, 큐와 로그부터 순서 보장까지](https://blog.wonkooklee.com/docs/software-design-and-theory/message-queue-fundamentals/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
 
-## Writing (in Korean)
+**Journal**
 
-I write up what I learn at work, starting from first principles, at [**blog.wonkooklee.com**](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=intro). Expand a section or category to see every post.
+- [AI 시대 개발자의 사회심리적 불안](https://blog.wonkooklee.com/blog/20260922_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
+- [소프트웨어 엔지니어링의 종말](https://blog.wonkooklee.com/blog/20260913_02/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=recent)
+
+<!-- recent-posts:end -->
 
 ---
 
@@ -321,6 +341,14 @@ Payroll, attendance, and accounting, plus how the card payments industry fits to
 - [개발자가 되었다.](https://blog.wonkooklee.com/blog/20220203_01/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=blog)
 
 </details>
+
+---
+
+## Product Engineer
+
+I'm a frontend engineer who builds products around complex, ever-changing rules like payroll and payment settlement.
+
+Before software, I worked as an industrial designer. More about me on the [About page](https://blog.wonkooklee.com/about/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=about).
 
 <!--
 ### [🚧 소개 페이지 🚧 공사중](https://wonkooklee.github.io/gatsby-start-blog/)

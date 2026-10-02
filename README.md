@@ -6,8 +6,6 @@ I'm rooted in the frontend, but I follow a problem wherever it leads, down to th
 
 What I care about most is the interface, the seam where two systems meet. I'd rather decide with data than instinct, and when the data doesn't exist yet, I build a way to collect it.
 
-I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=header). Feel free to reach out.
-
 ---
 
 ## Writing (in Korean)

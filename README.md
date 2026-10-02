@@ -1,5 +1,3 @@
-![bar](https://github.com/user-attachments/assets/2806b005-d225-408c-aa26-16aee7fd3a13)
-
 ## Product Engineer
 
 - Turning complex, ever-changing rules into dependable systems

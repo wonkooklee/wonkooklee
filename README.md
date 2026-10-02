@@ -1,16 +1,12 @@
 ## Product Engineer
 
-- Turning complex, ever-changing rules into dependable systems
-- Former Industrial Designer
-- [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=header)
+I build software for rules that are complex and keep changing: statutes, payroll, payment settlement. The aim is a system people can rely on without misreading it.
 
-I move complex, ever-shifting rules (the kind you find in statutes, payroll, and payment settlement) into software people can handle without misreading. Frontend is where I'm rooted, but to see a single problem through, I'll go from the screen all the way down to the database. Where a PM or designer is missing, I fill the gap myself, writing the PRD, modeling the data, designing the screens.
+I'm rooted in the frontend, but I follow a problem wherever it leads, down to the API and the database. When a team has no PM or designer, I write the PRD, model the data, and design the screens myself.
 
-When someone asks what my work really is, I reach for a single word: interface (the seam where two different systems meet). I don't confine it to a particular UI, framework, or API; its value, I've come to believe, lies in designing the space between different parties so they meet without friction. I'd rather decide with data than instinct, and when the data isn't there yet, I build the means to gather it.
+What I care about most is the interface, the seam where two systems meet. I'd rather decide with data than instinct, and when the data doesn't exist yet, I build a way to collect it.
 
-I began as an industrial designer before I ever wrote software. That perspective (including a Red Dot Design Award, among others) still shapes how I read the seam where design meets technology.
-
-If you'd like to connect, or have anything you're curious about, feel free to send me a message.
+I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=header). Feel free to reach out.
 
 ---
 

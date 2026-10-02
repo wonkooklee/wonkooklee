@@ -10,9 +10,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 
 ---
 
-## Writing
-
-![Written in Korean](https://img.shields.io/badge/written_in-Korean-1a73e8)
+## Writing (in Korean)
 
 I write up what I learn at work, starting from first principles, at [**blog.wonkooklee.com**](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=intro). Expand a section or category to see every post.
 

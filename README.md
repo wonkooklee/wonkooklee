@@ -12,12 +12,14 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 
 ## Writing
 
-제가 일하며 배운 것들을 원리부터 정리해 [**blog.wonkooklee.com**](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=intro)에 씁니다. 섹션과 카테고리를 펼치면 전체 글을 볼 수 있습니다.
+![Written in Korean](https://img.shields.io/badge/written_in-Korean-1a73e8)
+
+I write up what I learn at work, starting from first principles, at [**blog.wonkooklee.com**](https://blog.wonkooklee.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=intro). Expand a section or category to see every post.
 
 ---
 
 <details>
-<summary><b>개발 · 프론트엔드 · 백엔드 · 설계 (64편)</b></summary>
+<summary><b>Engineering · Frontend · Backend · Software Design (64 posts)</b></summary>
 
 <br/>
 
@@ -180,14 +182,14 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 ---
 
 <details>
-<summary><b>급여·근태·회계·결제·개인정보 · 업무 도메인 지식 (42편)</b></summary>
+<summary><b>Payroll, Attendance, Accounting, Payments, Privacy · Business Domain Knowledge (42 posts)</b></summary>
 
 <br/>
 
-프론트엔드에서 프로덕트 엔지니어로 넘어오며 마주친 급여·근태·회계 도메인과 카드 결제 산업의 구조를, 원리부터 실무까지 풀어 정리한 시리즈입니다.
+Payroll, attendance, and accounting, plus how the card payments industry fits together: the domains I ran into moving from frontend to product engineering, explained from first principles to practice.
 
 <details open>
-<summary>근태 (6)</summary>
+<summary>Time & Attendance (6)</summary>
 
 - [같은 회사인데 왜 근무가 다를까요?](https://blog.wonkooklee.com/domain/attendance/work-and-worker-types/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [일하는 날일까요, 쉬는 날일까요?](https://blog.wonkooklee.com/domain/attendance/work-day-or-holiday/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -199,7 +201,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>급여 기초 (3)</summary>
+<summary>Payroll Basics (3)</summary>
 
 - [급여명세서는 어떻게 완성될까요?](https://blog.wonkooklee.com/domain/payroll/basics/payslip-pipeline/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [통상임금, 왜 이렇게 다툼이 많을까요?](https://blog.wonkooklee.com/domain/payroll/basics/regular-wage/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -208,7 +210,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>소득세 (5)</summary>
+<summary>Income Tax (5)</summary>
 
 - [월급에서 소득세는 어떻게 떼나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/withholding/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [소득세는 어떻게 계산되나요?](https://blog.wonkooklee.com/domain/payroll/income-tax/income-tax-calculation/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -219,7 +221,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>4대보험 (4)</summary>
+<summary>Social Insurance (4)</summary>
 
 - [4대보험, 한 번에 정리하면?](https://blog.wonkooklee.com/domain/payroll/social-insurance/four-insurances/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [건강보험료는 월급으로만 매길까요?](https://blog.wonkooklee.com/domain/payroll/social-insurance/health-insurance/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -229,7 +231,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>퇴직급여 (3)</summary>
+<summary>Retirement Benefits (3)</summary>
 
 - [퇴직금, 퇴직연금(DB·DC)은 뭐가 다를까요?](https://blog.wonkooklee.com/domain/payroll/retirement/severance-system/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [퇴직금에는 세금이 어떻게 붙을까요?](https://blog.wonkooklee.com/domain/payroll/retirement/retirement-income-tax/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -238,7 +240,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>연말정산 (8)</summary>
+<summary>Year-End Tax Settlement (8)</summary>
 
 - [연말정산은 결국 무엇을 계산하나요?](https://blog.wonkooklee.com/domain/payroll/year-end/settlement-flow/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [부양가족이 많으면 세금이 얼마나 줄까요?](https://blog.wonkooklee.com/domain/payroll/year-end/personal-deductions/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -252,7 +254,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>특례·감면 (3)</summary>
+<summary>Special Cases & Tax Breaks (3)</summary>
 
 - [중소기업에 취업하면 소득세를 깎아준다고요?](https://blog.wonkooklee.com/domain/payroll/special/sme-tax-reduction/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [외국인 근로자의 세금은 다른가요?](https://blog.wonkooklee.com/domain/payroll/special/foreign-worker/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -261,14 +263,14 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>회계 (1)</summary>
+<summary>Accounting (1)</summary>
 
 - [지출 하나는 어떻게 전표가 될까요?](https://blog.wonkooklee.com/domain/accounting/spending-to-journal/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 
 </details>
 
 <details open>
-<summary>개인정보 (3)</summary>
+<summary>Privacy (3)</summary>
 
 - [이 값도 개인정보인가요?](https://blog.wonkooklee.com/domain/privacy/what-is-personal-data/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [이 데이터는 위탁받은 건가요, 넘겨받은 건가요?](https://blog.wonkooklee.com/domain/privacy/entrust-or-provide/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -277,7 +279,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 </details>
 
 <details open>
-<summary>결제 (6)</summary>
+<summary>Payments (6)</summary>
 
 - [카드를 긋는 순간 무슨 일이 벌어질까요?](https://blog.wonkooklee.com/domain/payments/authorization-to-settlement/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
 - [PG와 VAN은 뭐가 다른가요?](https://blog.wonkooklee.com/domain/payments/pg-and-van/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=domain)
@@ -293,7 +295,7 @@ I write at [blog.wonkooklee.com](https://blog.wonkooklee.com/?utm_source=github&
 ---
 
 <details>
-<summary><b>회고 · 커리어 · 일상 (24편)</b></summary>
+<summary><b>Retrospectives · Career · Life (24 posts)</b></summary>
 
 <br/>
 
